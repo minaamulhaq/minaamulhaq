@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node js , C++ Problom Solving , AI/Ml**
 
-- 📫 How to reach me **minaamulhaqoffical@gmail.com**
+- 📫 How to reach me **minaamulhaq00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
