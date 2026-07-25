@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minaamulhaq" alt="minaamulhaq" /></a> </p>
 
-- 🔭 I'm currently working on **Agentic AI systems and RAG pipelines** as an Associate Software Engineer at **Dexterz Technologies**
-
-- 🌱 Open-source contributor at **ByteBotClub HQ**, building AI-powered full-stack projects with the community
+- 🔭 I'm currently building [**Chatxify**](https://www.chatxify.com), an AI-powered SaaS chatbot/agent platform that lets businesses embed intelligent assistants on their websites
 
 - 💡 Building end-to-end AI solutions — multi-agent architectures, LLM orchestration, and scalable AI SaaS platforms
 
